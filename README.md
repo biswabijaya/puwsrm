@@ -4,3 +4,9 @@ Providence University Summer Immersion Program - AI &amp; Big Data Workshop Clas
   Day 1 - 17 July - Basic AI using Python
   
   Day 2 - 18 July - Natural Algorithms And Data Optimisation
+  
+  Day 3 - 20 July - Deep Learning 
+
+  Day 4 - 21 July - Computer Vision 
+
+  Day 5 - 23 July - 
