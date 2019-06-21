@@ -9,4 +9,4 @@ Providence University Summer Immersion Program - AI &amp; Big Data Workshop Clas
 
   Day 4 - 21 June - Computer Vision 
 
-  Day 5 - 23 July - 
+  Day 5 - 23 June - 
